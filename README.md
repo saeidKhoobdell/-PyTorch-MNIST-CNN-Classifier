@@ -26,20 +26,8 @@ pip install torch torchvision numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mnist-cnn-classifier.git
+git clone https://github.com/saeidkhoobdell/PyTorch-MNIST-CNN-Classifier.git
 cd mnist-cnn-classifier
-```
-
-2. Train the model:
-
-```bash
-python train.py
-```
-
-3. Evaluate the model:
-
-```bash
-python evaluate.py
 ```
 
 ## Model Architecture
@@ -48,7 +36,7 @@ The CNN model architecture used in this project consists of multiple convolution
 
 ## Results
 
-After training the model, you can expect to achieve an accuracy of over 99% on the MNIST test set. The actual performance may vary depending on hyperparameters and training settings.
+After training the model, you can expect to achieve an accuracy of over 98% on the MNIST test set. The actual performance may vary depending on hyperparameters and training settings.
 
 ## Contributing
 
